@@ -1,6 +1,3 @@
-# TODO
-#	- pl Comment in desktop file
-#
 Summary:	A nixie tube clock for GNOME
 Summary(pl):	Zegar z wy¶wietlaczem lampowym dla GNOME
 Name:		gtubeclock
