@@ -1,0 +1,15 @@
+diff -urN gtubeclock-0.9.orig/gtubeclock.desktop gtubeclock-0.9/gtubeclock.desktop
+--- gtubeclock-0.9.orig/gtubeclock.desktop	2004-11-25 14:08:36.317023168 +0100
++++ gtubeclock-0.9/gtubeclock.desktop	2004-11-25 14:09:54.263173552 +0100
+@@ -1,7 +1,9 @@
+ [Desktop Entry]
+ Name=gtubeclock
+ Comment=Nixie tube clock
++#Comment[pl]=
+ Exec=gtubeclock
+-Terminal=0
++Terminal=false
+ Type=Application
+-Categories=GNOME;Application;Utility;
++Categories=GTK;GNOME;Utility;
++Encoding=UTF-8
