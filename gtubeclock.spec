@@ -13,6 +13,8 @@ Source0:	http://www.bonnyswan.com/gtubeclock/downloads/%{name}-%{version}.tar.gz
 # Source0-md5:	94dffc6431e29cc25ae68f4318c33e05
 Patch0:		%{name}-desktop.patch
 URL:		http://www.bonnyswan.com/gtubeclock/
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRequires:	libgnomeui-devel >= 2.0.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
