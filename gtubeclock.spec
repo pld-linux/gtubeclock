@@ -1,5 +1,5 @@
 Summary:	A nixie tube clock for GNOME
-Summary(pl):	Zegar z wy∂wietlaczem lampowym dla GNOME
+Summary(pl.UTF-8):   Zegar z wy≈õwietlaczem lampowym dla GNOME
 Name:		gtubeclock
 Version:	0.9.1
 Release:	1
@@ -19,10 +19,10 @@ gtubeclock is a simple digital clock for GNOME/GTK+. The default
 appearance resembles nixie tubes, those old digital displays that
 pre-date LEDs. It also has support for other artwork.
 
-%description -l pl
-gtubeclock to prosty zegar cyfrowy dla GNOME/GTK+. Domy∂lny wygl±d
-przypomina lampy "nixie", uøywane jako wy∂wietlacze cyfrowe przed
-nadej∂ciem diod LED.
+%description -l pl.UTF-8
+gtubeclock to prosty zegar cyfrowy dla GNOME/GTK+. Domy≈õlny wyglƒÖd
+przypomina lampy "nixie", u≈ºywane jako wy≈õwietlacze cyfrowe przed
+nadej≈õciem diod LED.
 
 %prep
 %setup -q
