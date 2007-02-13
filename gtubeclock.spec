@@ -1,5 +1,5 @@
 Summary:	A nixie tube clock for GNOME
-Summary(pl.UTF-8):   Zegar z wyświetlaczem lampowym dla GNOME
+Summary(pl.UTF-8):	Zegar z wyświetlaczem lampowym dla GNOME
 Name:		gtubeclock
 Version:	0.9.1
 Release:	1
